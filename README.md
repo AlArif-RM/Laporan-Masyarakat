@@ -2,6 +2,11 @@
 
 LapMas adalah aplikasi web untuk pengelolaan laporan masyarakat berdasarkan wilayah administrasi. Proyek ini dibuat sebagai proyek PKL yang saya kerjakan bersama teman saya.
 
+## Developer
+
+- Al Arif Ramadan Marpaung
+- Azka Maulana
+
 ## Tentang Proyek
 
 Aplikasi ini membantu masyarakat membuat laporan, mengecek status laporan, dan membantu admin wilayah mengelola laporan sesuai kewenangan wilayahnya.
