@@ -38,8 +38,8 @@ Aplikasi ini membantu masyarakat membuat laporan, mengecek status laporan, dan m
 Clone repository:
 
 ```bash
-git clone <url-repository>
-cd lapmas-laravel
+git clone https://github.com/AlArif-RM/Laporan-Masyarakat.git
+cd Laporan-Masyarakat
 ```
 
 Install dependency PHP:
